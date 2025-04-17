@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Green Life</string>
+    <string name="title">🍏 GreenLife Delivery</string>
+    <string name="description">Saboreie o equilíbrio!\nNo GreenLife Delivery, preparamos refeições deliciosas e nutritivas, com ingredientes frescos e zero industrializados. Cardápio variado: low carb, vegano, sem glúten e opções fitness. Entregamos em até 30 minutos!</string>
+    <string name="button_label">Fazer Pedido</string>
 </resources>
